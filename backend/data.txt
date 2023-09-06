@@ -1,0 +1,148 @@
+
+[
+  {
+    _id: new ObjectId("645e73963e032de20e4a8345"),
+    productId: {
+      specification: [Object],
+      _id: new ObjectId("645d6da5b13430ecb5b6654e"),
+      name: 'Antminer S9I (Signatured)',
+      createdAt: 2023-05-11T22:35:17.241Z,
+      updatedAt: 2023-05-11T22:35:17.241Z,
+      __v: 0
+    },
+    userId: {
+      _id: new ObjectId("645d54c5b5e8cb5a0a3426f7"),
+      fullname: 'Sophia Taylor',
+      email: 'sophiataylor@example.com',
+      password: '$2b$10$KIHxKCqOq7Fu/DDbuPpoBuzaw/VwmqeU9uBAswDDOGlAMSCg/HaKu',
+      role: 'user',
+      createdAt: 2023-05-11T20:49:09.400Z,
+      updatedAt: 2023-05-11T20:49:09.400Z,
+      __v: 0
+    },
+    startDate: 2023-05-12T05:36:48.726Z,
+    dueDate: 2023-05-16T05:36:48.726Z,
+    quantity: 2,
+    status: 'active',
+    active: true,
+    createdAt: 2023-05-12T17:12:54.815Z,
+    updatedAt: 2023-05-12T17:12:54.815Z,
+    __v: 0
+  },
+  {
+    _id: new ObjectId("645e73c43e032de20e4a834d"),
+    productId: {
+      specification: [Object],
+      _id: new ObjectId("645d6e47b13430ecb5b66554"),
+      name: 'Antminer L7 (9.5GH)',
+      createdAt: 2023-05-11T22:37:59.304Z,
+      updatedAt: 2023-05-11T22:37:59.304Z,
+      __v: 0
+    },
+    userId: {
+      _id: new ObjectId("645d54a4b5e8cb5a0a3426f1"),
+      fullname: 'Emily Davis',
+      email: 'emilydavis@example.com',
+      password: '$2b$10$gC2bBxfMUykqGEsVUeLwNO.QYhPDpfBQAkMU0vvMKRFiuzEQOpDvW',
+      role: 'user',
+      createdAt: 2023-05-11T20:48:36.525Z,
+      updatedAt: 2023-05-11T20:48:36.525Z,
+      __v: 0
+    },
+    startDate: 2023-05-12T05:36:48.726Z,
+    dueDate: 2023-05-17T05:36:48.726Z,
+    quantity: 1,
+    status: 'active',
+    active: true,
+    createdAt: 2023-05-12T17:13:40.303Z,
+    updatedAt: 2023-05-12T17:13:40.303Z,
+    __v: 0
+  },
+  {
+    _id: new ObjectId("645e73fe3e032de20e4a8355"),
+    productId: {
+      specification: [Object],
+      _id: new ObjectId("645d6da5b13430ecb5b6654e"),
+      name: 'Antminer S9I (Signatured)',
+      createdAt: 2023-05-11T22:35:17.241Z,
+      updatedAt: 2023-05-11T22:35:17.241Z,
+      __v: 0
+    },
+    userId: {
+      _id: new ObjectId("645d5485b5e8cb5a0a3426eb"),
+      fullname: 'Jane Smith',
+      email: 'janesmith@example.com',
+      password: '$2b$10$gQCFSlv5Isy/Mcf3ek47pu.4eHlt0350Wp/qvdsH9XWKuHeTCckFK',
+      role: 'user',
+      createdAt: 2023-05-11T20:48:05.434Z,
+      updatedAt: 2023-05-11T20:48:05.434Z,
+      __v: 0
+    },
+    startDate: 2023-05-12T05:36:48.726Z,
+    dueDate: 2023-05-17T05:36:48.726Z,
+    quantity: 2,
+    status: 'active',
+    active: true,
+    createdAt: 2023-05-12T17:14:38.492Z,
+    updatedAt: 2023-05-12T17:14:38.492Z,
+    __v: 0
+  },
+  {
+    _id: new ObjectId("645e741a3e032de20e4a8359"),
+    productId: {
+      specification: [Object],
+      _id: new ObjectId("645d6da5b13430ecb5b6654e"),
+      name: 'Antminer S9I (Signatured)',
+      createdAt: 2023-05-11T22:35:17.241Z,
+      updatedAt: 2023-05-11T22:35:17.241Z,
+      __v: 0
+    },
+    userId: {
+      _id: new ObjectId("645d52d4b5e8cb5a0a3426e8"),
+      fullname: 'John Doe',
+      email: 'johndoe@example.com',
+      password: '$2b$10$iNIGKhm7dbY8lr6nU5r8E.E.pwBqan1bGniGCf0r.Vatjs.Ee2Lvu',
+      role: 'user',
+      createdAt: 2023-05-11T20:40:52.780Z,
+      updatedAt: 2023-05-11T20:40:52.780Z,
+      __v: 0
+    },
+    startDate: 2023-05-12T05:36:48.726Z,
+    dueDate: 2023-05-17T05:36:48.726Z,
+    quantity: 2,
+    status: 'active',
+    active: true,
+    createdAt: 2023-05-12T17:15:06.658Z,
+    updatedAt: 2023-05-12T17:15:06.658Z,
+    __v: 0
+  },
+  {
+    _id: new ObjectId("645e745e3e032de20e4a8361"),
+    productId: {
+      specification: [Object],
+      _id: new ObjectId("645d6d0eb13430ecb5b66548"),
+      name: 'Microbt Whatsminer M21S',
+      createdAt: 2023-05-11T22:32:46.689Z,
+      updatedAt: 2023-05-11T22:32:46.689Z,
+      __v: 0
+    },
+    userId: {
+      _id: new ObjectId("645d5485b5e8cb5a0a3426eb"),
+      fullname: 'Jane Smith',
+      email: 'janesmith@example.com',
+      password: '$2b$10$gQCFSlv5Isy/Mcf3ek47pu.4eHlt0350Wp/qvdsH9XWKuHeTCckFK',
+      role: 'user',
+      createdAt: 2023-05-11T20:48:05.434Z,
+      updatedAt: 2023-05-11T20:48:05.434Z,
+      __v: 0
+    },
+    startDate: 2023-05-12T05:36:48.726Z,
+    dueDate: 2023-05-19T05:36:48.726Z,
+    quantity: 2,
+    status: 'active',
+    active: true,
+    createdAt: 2023-05-12T17:16:14.496Z,
+    updatedAt: 2023-05-12T17:16:14.496Z,
+    __v: 0
+  }
+]

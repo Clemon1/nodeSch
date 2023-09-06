@@ -1,0 +1,79 @@
+[
+  {
+    "productId": "645d6d0eb13430ecb5b66548",
+    "userId": "645d54ffb5e8cb5a0a342703",
+    "startDate": 1683869808726,
+    "duration": 30,
+    "quantity": 2
+  },
+  {
+    "productId": "645d6d58b13430ecb5b6654b",
+    "userId": "645d54d3b5e8cb5a0a3426fa",
+    "startDate": 1683869808726,
+    "duration": 10,
+    "quantity": 1
+  },
+  {
+    "productId": "645d6d58b13430ecb5b6654b",
+    "userId": "645d54e1b5e8cb5a0a3426fd",
+    "startDate": 1683869808726,
+    "duration": 60,
+    "quantity": 5
+  },
+  {
+    "productId": "645d6da5b13430ecb5b6654e",
+    "userId": "645d54c5b5e8cb5a0a3426f7",
+    "startDate": 1683869808726,
+    "duration": 4,
+    "quantity": 2
+  },
+  {
+    "productId": "645d6de8b13430ecb5b66551",
+    "userId": "645d54ffb5e8cb5a0a342703",
+    "startDate": 1683869808726,
+    "duration": 30,
+    "quantity": 2
+  },
+  {
+    "productId": "645d6e47b13430ecb5b66554",
+    "userId": "645d54a4b5e8cb5a0a3426f1",
+    "startDate": 1683869808726,
+    "duration": 5,
+    "quantity": 1
+  },
+  {
+    "productId": "645d6e47b13430ecb5b66554",
+    "userId": "645d5491b5e8cb5a0a3426ee",
+    "startDate": 1683869808726,
+    "duration": 30,
+    "quantity": 1
+  },
+  {
+    "productId": "645d6da5b13430ecb5b6654e",
+    "userId": "645d5485b5e8cb5a0a3426eb",
+    "startDate": 1683869808726,
+    "duration": 5,
+    "quantity": 2
+  },
+  {
+    "productId": "645d6da5b13430ecb5b6654e",
+    "userId": "645d52d4b5e8cb5a0a3426e8",
+    "startDate": 1683869808726,
+    "duration": 5,
+    "quantity": 2
+  },
+  {
+    "productId": "645d6d0eb13430ecb5b66548",
+    "userId": "645d5485b5e8cb5a0a3426eb",
+    "startDate": 1683869808726,
+    "duration": 30,
+    "quantity": 2
+  },
+  {
+    "productId": "645d6d0eb13430ecb5b66548",
+    "userId": "645d5485b5e8cb5a0a3426eb",
+    "startDate": 1683869808726,
+    "duration": 7,
+    "quantity": 2
+  }
+]
